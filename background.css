@@ -1,0 +1,10 @@
+body{
+    background-image: url(../images/SLSU.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+body123{
+    background: linear-gradient(to right, #336633, yellow  120%);
+}
